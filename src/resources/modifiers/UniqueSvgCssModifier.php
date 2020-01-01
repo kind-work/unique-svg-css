@@ -7,7 +7,7 @@ use Statamic\Modifiers\Modifier;
 class UniqueSvgCssModifier extends Modifier {
   protected static $handle = 'unique_svg_css';
 
-  public function index($value, $params) {
+  public function index($value) {
     // Make a unique string by hashing the content
     $uniq = md5($value);
 
