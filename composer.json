@@ -1,0 +1,29 @@
+{
+  "name": "kind-work/unique-svg-css",
+  "description": "Statamic 3 Unique SVG CSS addon",
+  "type": "statamic-addon",
+  "autoload": {
+    "psr-4": {
+      "KindWork\\UniqueSvgCss\\": "src"
+    }
+  },
+  "authors": [
+    {
+      "name": "Jonathan Cohlmeyer"
+    }
+  ],
+  "support": {
+    "email": "help@kind.work"
+  },
+  "extra": {
+    "statamic": {
+      "name": "Unique Svg Css",
+      "description": "Statamic 3 Unique SVG CSS addon"
+    },
+    "laravel": {
+      "providers": [
+        "KindWork\\UniqueSvgCss\\ServiceProvider"
+      ]
+    }
+  }
+}
