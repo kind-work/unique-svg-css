@@ -14,3 +14,7 @@ Statamic Login Notify is commercial software. You do not need a licence for deve
 ### Install the addon using composer
 
 ```composer require kind-work/unique-svg-css```
+
+## Statamic 2 Version
+
+The Statamic 2 version of this addon can be found on GitHub [https://github.com/jrc9designstudio/statamic-unique-svg-css](https://github.com/jrc9designstudio/statamic-unique-svg-css).
