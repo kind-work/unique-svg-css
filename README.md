@@ -5,7 +5,7 @@
 
 Avoid one SVG classes overwriting the CSS of another SVG by adding the `unique_svg_css` modifier to your SVG output.
 
-```
+```antlers
 {{ my_svg_url_var | output | unique_svg_css }}
 ```
 
