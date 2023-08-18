@@ -11,7 +11,7 @@ Avoid one SVG classes overwriting the CSS of another SVG by adding the `unique_s
 
 ## Pricing
 
-Statamic Login Notify is commercial software. You do not need a licence for development but when you are ready to deploy the site to production please purchase a licence per site on the [Statamic Marketplace](https://statamic.com/marketplace/addons/unique-svg-css).
+This addon is commercial software. You do not need a licence for development but when you are ready to deploy the site to production please purchase a licence per site on the [Statamic Marketplace](https://statamic.com/marketplace/addons/unique-svg-css).
 
 ## Install
 
