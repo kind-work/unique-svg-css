@@ -1,3 +1,5 @@
+This addon is no longer supported.
+
 ![Statamic 3.0+](https://img.shields.io/badge/Statamic-3.0+-FF269E?style=for-the-badge&link=https://statamic.com)
 [![Codacy Badge](https://api.codacy.com/project/badge/Grade/f60d22b60023490d83b8d85ec144da29)](https://www.codacy.com/manual/jcohlmeyer/unique-svg-css?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=kind-work/unique-svg-css&amp;utm_campaign=Badge_Grade)
 
